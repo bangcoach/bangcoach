@@ -1,5 +1,5 @@
 ## Hi there 👋
-# 👋 Hi, I’m [Your Name] – AI Developer Who Designs With Data
+# 👋 Hi, I’m bangcoach – AI Developer Who Designs With Data
 
 > “모델은 누구나 만들 수 있다. 나는 문제를 정의하고, 데이터로 설계한다.”
 
