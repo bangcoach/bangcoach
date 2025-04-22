@@ -1,32 +1,83 @@
-<h1 align="center">✨ Welcome! I'm [Your Name]</h1>
-
+<!-- ✨ 자기소개 / 간단한 가치관 -->
+<h1 align="center">안녕하세요 👋 저는 [이름]입니다</h1>
 <p align="center">
-  🛠 기술과 사람, 그리고 일의 의미를 연결하는 개발자 <br>
-  🚀 지금도 성장 중인 <strong>변화 중심의 개발자 여정</strong>을 공유합니다.
+지속 가능한 성장과 의미 있는 개발을 추구하는<br>
+백엔드/프론트엔드/AI/데이터/플랫폼 개발자입니다.
 </p>
 
 ---
 
-## 🌌 Theme — 나의 관심 분야
-
-> "내 GitHub 리포지토리를 보면, 관심사가 보입니다."
-
-- 🔭 **Generative AI & LLM** → LangChain, OpenAI, HuggingFace 기반 프로젝트 진행  
-- 🌐 **웹 프론트엔드** → React 기반 사이드 프로젝트 다수  
-- ⚙️ **DevOps 자동화** → GitHub Actions, Docker 환경 정비  
-- 📈 **트렌드 기반 탐색** → Star/Watch/Fork 수가 높은 라이브러리 중심 실습
-
-> ✨ 관심 기술 기반으로 `Star`, `Fork`, `Pinned Repos`를 구성하면 Theme이 더 분명히 드러납니다.
+## ✨ Life Motto
+> "[삶의 좌우명 혹은 나만의 개발 철학]"  
+> 예) "기술은 수단일 뿐, 진짜 목적은 문제 해결이다."
 
 ---
 
-## 📈 Track — 나의 성장 흐름
+## 🛠️ Tech Stack
 
-> “내 커밋은 과거와 현재, 그리고 미래를 보여줍니다.”
+### 🔥 Main
+<!-- 사용하는 주요 기술 -->
+[Tech1] • [Tech2] • [Tech3]  
+예) Kotlin • Spring Boot • MySQL
 
-```text
-2021 – CS 기초 학습 + 코딩테스트 집중
-2022 – 토이 프로젝트 3건 (기획 ~ 배포)
-2023 – KT AIVLE SCHOOL 프로젝트 + 팀 협업 중심 확장
-2024 – 오픈소스 기여 / 대외 발표 / GPT + LangChain 활용한 실전 프로젝트
-2025 – [계획] 인공지능 기반 SaaS MVP 구축 & 전시회 참가 예정
+### 🔧 Sub / Learning
+<!-- 보조 기술 or 학습 중인 스택 -->
+[Tech4] • [Tech5]  
+예) Docker • Kafka
+
+---
+
+## 🧪 Side Projects
+
+### 📌 [프로젝트 이름] `YYYY.MM ~ YYYY.MM`
+- 간단 소개: 무엇을 만들었는가?
+- 주요 기능: 핵심 기능 2~3가지
+- 사용 기술: [언어, 프레임워크, DB 등]
+- GitHub 링크: [🔗 바로가기](https://github.com/)
+
+### 📌 [다른 프로젝트 이름]
+- 내용 추가
+
+<!-- 여러 개 이어서 작성 가능 -->
+
+---
+
+## 📂 협업 경험 및 팀 활동
+- [KT AIVLE SCHOOL 프로젝트] – AI 기반 서비스 개발 프로젝트 참여 (GPT, STT, OCR)
+- [교내 해커톤] – OOO 주제로 팀빌딩 및 기획, 프론트 구현
+- [기타 협업 사례] – ...
+
+---
+
+## 📈 GitHub Stats
+
+<!-- GitHub 활동 시각화 -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yourgithubid&show_icons=true&theme=dark" width="400"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourgithubid&theme=dark" width="400"/>
+</p>
+
+---
+
+## 🧠 Algorithm & Problem Solving
+
+![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=yourbojid)
+
+---
+
+## 🌱 Open Source / 커뮤니티 기여
+
+- [Repo or 프로젝트명](https://github.com/) - 간단 설명
+- 문서 번역, 이슈 트래킹, 기여 코드 등
+
+---
+
+## 📬 Contact
+
+[![Gmail Badge](https://img.shields.io/badge/Gmail-red?style=flat-square&logo=gmail&logoColor=white&link=mailto:youremail@gmail.com)](mailto:youremail@gmail.com)  
+[![Instagram Badge](https://img.shields.io/badge/Instagram-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/)](https://instagram.com/yourhandle)  
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://linkedin.com/in/yourname)](https://linkedin.com/in/yourname)
+
+---
+
+<!-- TIP: 프로필 저장소에 이 README.md를 올려두면 자동으로 메인에 표시됩니다. -->
